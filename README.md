@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Ashwin
 - 👀 I’m interested in coding in Java, Python and C++
-- 🌱 I’m currently learning whatever that comes to me
+- 🌱 I’m currently learning whatever thats infront of me
 
   
 
