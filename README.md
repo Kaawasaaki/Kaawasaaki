@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Avid Learner
 ----------------------------------
 
-I've been coding for 3 years with different languages as well as learning the about Softwares, Operating Systems, Data Structures, Cyber Security, etc
+I've been coding for 3 years with different languages as well as learning the about Softwares, Operating Systems, Cyber Security, etc
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [saiashwin254@gmail.com](mailto:saiashwin254@gmail.com)
-* 🧠  I'm learning Java, Python ,C++,C, Data Structures and UI/UX Desgins
+* 🧠  I'm learning Java, Python ,C++,C and UI/UX Desgins
 * ⚡  Fun Fact: I love hacking XD
 
 ### Skills
