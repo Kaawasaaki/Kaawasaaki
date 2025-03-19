@@ -9,7 +9,7 @@ I've been coding for a while with different languages as well as learning the ab
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [saiashwin254@gmail.com](mailto:saiashwin254@gmail.com)
 * 🧠  I'm learning Java, Python ,C++,C and UI/UX Desgins
-* ⚡  Fun Fact: I love the red team XD
+* ⚡  Fun Fact: I catch phishes
 
 ### Skills
 
