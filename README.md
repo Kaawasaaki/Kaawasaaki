@@ -30,6 +30,9 @@ I've been coding for a while with different languages as well as learning the ab
 
 <a href="https://github.com/Kaawasaaki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaawasaaki&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/saiashwin254.png)](https://tryhackme.com/p/saiashwin254)
+<a href="https://tryhackme.com/p/saiashwin254">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/saiashwin254.png" alt="TryHackMe Badge" />
+</a>
+
 
 
